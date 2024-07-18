@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peacock Feather Animation with Eye Blinking</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="nav-container">
+
+        <div class="face">
+            <div class="feather-container">
+                <img src="feather.png" alt="Peacock Feather" class="feather">
+            </div>
+        </div>
+        
+        <main>
+            <h2>Con</h2>
+            <h2>Hep</h2>
+        </main>
+    </nav>
+</body>
+</html>
